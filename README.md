@@ -2,11 +2,11 @@
 oyun ve uygulama akademisi game jam
 
 Team{
-  Eren Kalfa
-  Yasin Akgül
-  Gözde Aça
-  Kadir Karayiğit
-  Hilal Karakuş
+  Eren Kalfa,
+  Yasin Akgül,
+  Gözde Aça,
+  Kadir Karayiğit,
+  Hilal Karakuş,
   }
   
 Assets{
