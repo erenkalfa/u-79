@@ -1,14 +1,11 @@
-# u-79
-oyun ve uygulama akademisi game jam
+## Oyun ve Uygulama Akademisi Game Jam U-79 ekibi
 
-Team{
-  Eren Kalfa,
-  Yasin Akgül,
-  Gözde Aça,
-  Kadir Karayiğit,
-  Hilal Karakuş
-  }
+## Takım
+* Eren Kalfa
+* Yasin Akgül
+* Gözde Aça
+* Kadir Karayiğit
+* Hilal Karaku
   
-Assets{
-
-}
+  
+## Assets
