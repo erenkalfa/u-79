@@ -6,7 +6,7 @@ Team{
   Yasin Akgül,
   Gözde Aça,
   Kadir Karayiğit,
-  Hilal Karakuş,
+  Hilal Karakuş
   }
   
 Assets{
