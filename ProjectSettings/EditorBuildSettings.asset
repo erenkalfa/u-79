@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/EnterScene.unity
     guid: 25e395fac53174a48b31e28c58b567ae
   - enabled: 1
-    path: Assets/Scenes/TestScene.unity
+    path: Assets/Scenes/yasinTestScene.unity
     guid: 52f196c0ac4c8064a8da164e6e7463af
   m_configObjects: {}
