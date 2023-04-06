@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="052e22e8-740f-46c4-9108-658168ada427" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.u-79/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.u-79/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/Misc/PolygonStarter_Mat_01_Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/Misc/PolygonStarter_Mat_01_Glass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/Plane/PolygonStarter_Mat_Plane_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/Plane/PolygonStarter_Mat_Plane_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/PolygonStarter/Materials/PolygonStarter_Mat_04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerInputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@12.1.8/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2O1c1xHvS69IC7MRZ8TXShbdsCd" />
   <component name="ProjectViewState">
@@ -77,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680731332794</updated>
       <workItem from="1680731339005" duration="460000" />
+      <workItem from="1680736919133" duration="2182000" />
     </task>
     <servers />
   </component>
