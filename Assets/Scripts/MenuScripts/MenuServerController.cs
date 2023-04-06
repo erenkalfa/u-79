@@ -4,7 +4,7 @@ using Photon.Pun;
 using Photon.Realtime;
 using UnityEngine.SceneManagement;
 
-public class ServerController : MonoBehaviourPunCallbacks
+public class MenuServerController : MonoBehaviourPunCallbacks
 {
     private PhotonView _photonView;
     public bool isPlayerDisconnect;

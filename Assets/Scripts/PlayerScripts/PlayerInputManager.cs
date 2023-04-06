@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerInputManager : MonoBehaviour
@@ -7,6 +8,12 @@ public class PlayerInputManager : MonoBehaviour
     public Vector2 look;
     public bool jump;
     public bool sprint;
+
+    private void Start()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+    }
 
     public void CheckInputs()
     {
@@ -21,5 +28,6 @@ public class PlayerInputManager : MonoBehaviour
     private void OnApplicationFocus(bool hasFocus)
     {
         Cursor.lockState = hasFocus ? CursorLockMode.Locked : CursorLockMode.None;
+        Cursor.visible = !hasFocus;
     }
 }

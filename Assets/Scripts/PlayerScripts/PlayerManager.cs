@@ -1,9 +1,11 @@
 using Photon.Pun;
+using TMPro;
 using UnityEngine;
 
 public class PlayerManager : MonoBehaviourPunCallbacks
 {
     [SerializeField] private GameObject playerFollowCM;
+    [SerializeField] private TMP_Text usernameText;
     
     private PlayerMovementController movementController;
     private PlayerInputManager inputManager;
@@ -18,6 +20,9 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     private void Start()
     {
+        PhotonNetwork.NickName = PlayerPrefs.GetString("Username");
+        usernameText.text = PhotonNetwork.NickName;
+        
         if (!pView.IsMine) return;
         
         playerFollowCM.SetActive(true);
