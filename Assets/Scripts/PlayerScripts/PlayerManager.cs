@@ -20,7 +20,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     private void Start()
     {
-        usernameText.text = PhotonNetwork.NickName;
+        usernameText.text = pView.Owner.NickName;
         
         if (!pView.IsMine) return;
         
