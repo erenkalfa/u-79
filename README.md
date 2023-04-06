@@ -1,6 +1,6 @@
 ## Oyun ve Uygulama Akademisi Game Jam U-79
 
-## Takım
+## Team
 * Eren Kalfa
 * Yasin Akgül
 * Gözde Aça
