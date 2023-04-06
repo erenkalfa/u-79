@@ -1,6 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerInputManager : MonoBehaviour
@@ -10,13 +7,6 @@ public class PlayerInputManager : MonoBehaviour
     public Vector2 look;
     public bool jump;
     public bool sprint;
-
-    [Header("Movement Settings")]
-    public bool analogMovement;
-
-    [Header("Mouse Cursor Settings")]
-    public bool cursorLocked = true;
-    public bool cursorInputForLook = true;
 
     public void CheckInputs()
     {
