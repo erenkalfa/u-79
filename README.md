@@ -10,5 +10,5 @@
   
 ## Assets
 * [Starter Assets - Third Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526)
-* [POLYGON - Starter Pack | FREE]([https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526](https://syntystore.com/collections/frontpage/products/polygon-starter-pack)
-* [PUN 2 - FREE]([https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)
+* [POLYGON - Starter Pack | FREE](https://syntystore.com/collections/frontpage/products/polygon-starter-pack)
+* [PUN 2 - FREE](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)
