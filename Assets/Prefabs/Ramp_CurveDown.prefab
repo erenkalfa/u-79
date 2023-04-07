@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1471627079714506746}
   - component: {fileID: 1471627079711639514}
   - component: {fileID: 1471627079712736538}
+  - component: {fileID: 7083450898062303662}
   m_Layer: 0
   m_Name: Ramp_CurveDown
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7083450898062303662
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1471627079714675674}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: fa9f5255d3349b04c827f4a72c3ae795, type: 3}

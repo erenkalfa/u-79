@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7575676804490788715}
   - component: {fileID: 7575676804491558731}
   - component: {fileID: 7575676804492688779}
+  - component: {fileID: 3780818329885214119}
   m_Layer: 0
   m_Name: Ramp_Spiral
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3780818329885214119
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7575676804490421067}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 917c1cfd36c44f7468719b388319c954, type: 3}
