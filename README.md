@@ -13,3 +13,4 @@
 * [POLYGON - Starter Pack | FREE](https://syntystore.com/collections/frontpage/products/polygon-starter-pack)
 * [PUN 2 - FREE](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)
 * [(URP)Simple Toon Shader](https://assetstore.unity.com/packages/vfx/shaders/urp-simple-toon-shader-243515)
+* [Creator Kit: Puzzle](https://assetstore.unity.com/packages/templates/tutorials/creator-kit-puzzle-149311#description)
