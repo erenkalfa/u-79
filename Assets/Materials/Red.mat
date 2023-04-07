@@ -105,8 +105,8 @@ Material:
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularStep: 0.06
-    - _SpecularStepSmooth: 0.05
+    - _SpecularStep: 0
+    - _SpecularStepSmooth: 0
     - _SrcBlend: 1
     - _Surface: 0
     - _WorkflowMode: 1
