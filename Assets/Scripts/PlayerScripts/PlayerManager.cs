@@ -6,6 +6,8 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 {
     [SerializeField] private GameObject playerFollowCM;
     [SerializeField] private TMP_Text usernameText;
+    [SerializeField] private Renderer playerRenderer;
+    [SerializeField] private Material[] playerMaterials;
     
     private PlayerMovementController movementController;
     private PlayerInputManager inputManager;
@@ -21,6 +23,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     private void Start()
     {
         usernameText.text = pView.Owner.NickName;
+        playerRenderer.material = playerMaterials[pView.Owner.ActorNumber - 1];
         
         if (!pView.IsMine) return;
         
