@@ -8,7 +8,7 @@ public class NetworkManager : MonoBehaviourPunCallbacks,IPunObservable
     private PhotonView networkPhotonView;
     [SerializeField] private HammerNetworkController hammerNetworkController;
     [SerializeField] private FlipperNetworkController flipperNetworkController;
-    //[SerializeField] private FlipperNetworkController spoonNetworkController;
+    [SerializeField] private FlipperNetworkController spoonNetworkController;
     public bool[] puzzleStates;
     
     private Transform ballStartTransform;
@@ -36,7 +36,7 @@ public class NetworkManager : MonoBehaviourPunCallbacks,IPunObservable
         
         puzzleStates[0] = hammerNetworkController.isHammerActive;
         puzzleStates[1] = flipperNetworkController.isFlipperActive;
-        //puzzleStates[2] = spoonNetworkController.isFlipperActive;
+        puzzleStates[2] = spoonNetworkController.isFlipperActive;
     }
 
     public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
@@ -45,13 +45,13 @@ public class NetworkManager : MonoBehaviourPunCallbacks,IPunObservable
         {
             stream.SendNext(puzzleStates[0]);
             stream.SendNext(puzzleStates[1]);
-            //stream.SendNext(puzzleStates[2]);
+            stream.SendNext(puzzleStates[2]);
         }
         else if (stream.IsReading)
         {
             puzzleStates[0] = (bool) stream.ReceiveNext();
             puzzleStates[1] = (bool) stream.ReceiveNext();
-            //puzzleStates[2] = (bool) stream.ReceiveNext();
+            puzzleStates[2] = (bool) stream.ReceiveNext();
         }
     }
 }
