@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
     public GameObject mainCamera;
+    public NetworkManager networkManager;
     
     private void Awake()
     {
