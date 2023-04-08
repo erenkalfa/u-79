@@ -25,7 +25,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     private void Start()
     {
         usernameText.text = pView.Owner.NickName;
-        playerRenderer.material = playerMaterials[pView.Owner.ActorNumber - 1];
+        playerRenderer.material = playerMaterials[PhotonNetwork.CurrentRoom.PlayerCount - 1];
         
         if (!pView.IsMine) return;
         
