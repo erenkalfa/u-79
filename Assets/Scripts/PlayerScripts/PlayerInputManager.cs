@@ -11,8 +11,13 @@ public class PlayerInputManager : MonoBehaviour
     
     
     [Header("Mobile Input")]
-    public bool isDeviceMobile;
+    private bool isDeviceMobile;
     public VariableJoystick joystick;
+
+    private void Awake()
+    {
+        isDeviceMobile = GameManager.Instance.isDeviceMobile;
+    }
 
     private void Start()
     {

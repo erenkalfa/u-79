@@ -5,6 +5,8 @@ using UnityEngine;
 public class PlayerManager : MonoBehaviourPunCallbacks
 {
     [SerializeField] private GameObject playerFollowCM;
+    [SerializeField] private GameObject playerUI;
+    [SerializeField] private GameObject mobileInputUI;
     [SerializeField] private TMP_Text usernameText;
     [SerializeField] private Renderer playerRenderer;
     [SerializeField] private Material[] playerMaterials;
@@ -27,7 +29,11 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         
         if (!pView.IsMine) return;
         
+        playerUI.SetActive(true);
         playerFollowCM.SetActive(true);
+        
+        mobileInputUI.SetActive(GameManager.Instance.isDeviceMobile);
+        
     }
 
     private void Update()

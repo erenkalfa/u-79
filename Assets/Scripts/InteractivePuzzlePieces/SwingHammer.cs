@@ -6,6 +6,7 @@ public class SwingHammer : InteractivePuzzlePiece<HingeJoint>
     [Range(1f, 10f)]
     public float power = 5f;
     private NetworkManager networkManager;
+    public int puzzleId;
     
     void Awake ()
     {
@@ -19,7 +20,7 @@ public class SwingHammer : InteractivePuzzlePiece<HingeJoint>
 
     private void Update()
     {
-        physicsComponent.useMotor = networkManager.hammerState;
+        physicsComponent.useMotor = networkManager.puzzleStates[puzzleId];
     }
     
 }
