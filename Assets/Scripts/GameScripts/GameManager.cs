@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class GameManager : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class GameManager : MonoBehaviour
     public GameObject mainCamera;
     public NetworkManager networkManager;
     public bool isDeviceMobile;
+    public FinishManager finishManager;
     
     private void Awake()
     {

@@ -14,16 +14,21 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     private PlayerMovementController movementController;
     private PlayerInputManager inputManager;
     private PhotonView pView;
+    private Animator animator;
+    
+    private FinishManager finishManager;
 
     private void Awake()
     {
         pView = GetComponent<PhotonView>();
         movementController = GetComponent<PlayerMovementController>();
         inputManager = GetComponent<PlayerInputManager>();
+        animator = GetComponent<Animator>();
     }
 
     private void Start()
     {
+        finishManager = GameManager.Instance.finishManager;
         usernameText.text = pView.Owner.NickName;
         playerRenderer.material = playerMaterials[PhotonNetwork.CurrentRoom.PlayerCount - 1];
         
@@ -45,6 +50,11 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         movementController.Move();
         movementController.GroundedCheck();
         movementController.JumpAndGravity();
+
+        if (finishManager.isFinished)
+        {
+            animator.SetLayerWeight(1,Mathf.Lerp(animator.GetLayerWeight(1),1,Time.deltaTime * 5f));
+        }
     }
 
     private void LateUpdate()
