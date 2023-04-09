@@ -85,8 +85,8 @@ public class PlayerInteractionController : MonoBehaviour
         flipperNetworkController.RequestOwnership();
         flipperButton.SetActive(false);
         leaveButton.SetActive(true);
-        transform.position = flipperNetworkController.gameObject.transform.GetChild(7).gameObject.transform.position;
-        transform.rotation = flipperNetworkController.gameObject.transform.GetChild(7).gameObject.transform.rotation;
+        transform.position = flipperNetworkController.gameObject.transform.GetChild(0).gameObject.transform.position;
+        transform.rotation = flipperNetworkController.gameObject.transform.GetChild(0).gameObject.transform.rotation;
         animator.SetLayerWeight(2,1);
     }
     
@@ -95,8 +95,8 @@ public class PlayerInteractionController : MonoBehaviour
         hammerNetworkController.RequestOwnership();
         hammerButton.SetActive(false);
         leaveButton.SetActive(true);
-        transform.position = hammerNetworkController.gameObject.transform.GetChild(7).gameObject.transform.position;
-        transform.rotation = hammerNetworkController.gameObject.transform.GetChild(7).gameObject.transform.rotation;
+        transform.position = hammerNetworkController.gameObject.transform.GetChild(0).gameObject.transform.position;
+        transform.rotation = hammerNetworkController.gameObject.transform.GetChild(0).gameObject.transform.rotation;
         animator.SetLayerWeight(2,1);
     }
 

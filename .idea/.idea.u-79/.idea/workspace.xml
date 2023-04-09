@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="052e22e8-740f-46c4-9108-658168ada427" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.u-79/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.u-79/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/kontrol_kolu.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/kontrol_kolu.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BuildTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BuildTest.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerInteractionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerInteractionController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller" afterDir="false" />
-    </list>
+    <list default="true" id="052e22e8-740f-46c4-9108-658168ada427" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +129,7 @@
       <workItem from="1680924024010" duration="3687000" />
       <workItem from="1680952388294" duration="14212000" />
       <workItem from="1681003067544" duration="932000" />
-      <workItem from="1681045719587" duration="3216000" />
+      <workItem from="1681045719587" duration="3827000" />
     </task>
     <servers />
   </component>
