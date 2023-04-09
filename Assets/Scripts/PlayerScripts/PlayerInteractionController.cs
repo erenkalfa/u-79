@@ -13,6 +13,7 @@ public class PlayerInteractionController : MonoBehaviour
     private PhotonView interactionPhotonView;
     private HammerNetworkController hammerNetworkController;
     private FlipperNetworkController flipperNetworkController;
+    private Animator animator;
     
     private bool isDeviceMobile;
     
@@ -21,6 +22,7 @@ public class PlayerInteractionController : MonoBehaviour
     {
         interactionPhotonView = GetComponent<PhotonView>();
         isDeviceMobile = GameManager.Instance.isDeviceMobile;
+        animator = GetComponent<Animator>();
     }
 
     private void Update()
@@ -83,6 +85,9 @@ public class PlayerInteractionController : MonoBehaviour
         flipperNetworkController.RequestOwnership();
         flipperButton.SetActive(false);
         leaveButton.SetActive(true);
+        transform.position = flipperNetworkController.gameObject.transform.GetChild(7).gameObject.transform.position;
+        transform.rotation = flipperNetworkController.gameObject.transform.GetChild(7).gameObject.transform.rotation;
+        animator.SetLayerWeight(2,1);
     }
     
     public void RequestHammerOwnership()
@@ -90,6 +95,9 @@ public class PlayerInteractionController : MonoBehaviour
         hammerNetworkController.RequestOwnership();
         hammerButton.SetActive(false);
         leaveButton.SetActive(true);
+        transform.position = hammerNetworkController.gameObject.transform.GetChild(7).gameObject.transform.position;
+        transform.rotation = hammerNetworkController.gameObject.transform.GetChild(7).gameObject.transform.rotation;
+        animator.SetLayerWeight(2,1);
     }
 
     public void ExitPuzzlePiece()
@@ -108,6 +116,8 @@ public class PlayerInteractionController : MonoBehaviour
             hammerButton.SetActive(false);
             hammerNetworkController = null;
         }
+        animator.SetLayerWeight(2,0);
+        
     }
     
     public void LeaveFlipper()
@@ -120,5 +130,6 @@ public class PlayerInteractionController : MonoBehaviour
             flipperNetworkController.flipperButton.SetActive(false);
             flipperNetworkController = null;
         }
+        animator.SetLayerWeight(2,0);
     }
 }
