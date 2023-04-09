@@ -1,6 +1,8 @@
 using Photon.Pun;
+using Photon.Realtime;
 using TMPro;
 using UnityEngine;
+using Hashtable = ExitGames.Client.Photon.Hashtable;
 
 public class PlayerManager : MonoBehaviourPunCallbacks
 {
@@ -17,6 +19,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     private Animator animator;
     
     private FinishManager finishManager;
+    private Hashtable playerProperties;
 
     private void Awake()
     {
@@ -30,7 +33,6 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     {
         finishManager = GameManager.Instance.finishManager;
         usernameText.text = pView.Owner.NickName;
-        playerRenderer.material = playerMaterials[PhotonNetwork.CurrentRoom.PlayerCount - 1];
         
         if (!pView.IsMine) return;
         
@@ -38,6 +40,13 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         playerFollowCM.SetActive(true);
         
         mobileInputUI.SetActive(GameManager.Instance.isDeviceMobile);
+        
+        playerProperties = new Hashtable
+        {
+            { "skin", 0 }
+        };
+        
+        PhotonNetwork.LocalPlayer.SetCustomProperties(playerProperties);
         
     }
 
@@ -55,6 +64,8 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         {
             animator.SetLayerWeight(1,Mathf.Lerp(animator.GetLayerWeight(1),1,Time.deltaTime * 5f));
         }
+        
+        SelectColor();
     }
 
     private void LateUpdate()
@@ -62,5 +73,46 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         if (!pView.IsMine) return;
         
         movementController.CameraRotation();
+    }
+
+    private void SelectColor()
+    {
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            playerProperties["skin"] = 0;
+            playerRenderer.material = playerMaterials[(int) playerProperties["skin"]];
+            PhotonNetwork.LocalPlayer.SetCustomProperties(playerProperties);
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            playerProperties["skin"] = 1;
+            playerRenderer.material = playerMaterials[(int) playerProperties["skin"]];
+            PhotonNetwork.LocalPlayer.SetCustomProperties(playerProperties);
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            playerProperties["skin"] = 2;
+            playerRenderer.material = playerMaterials[(int) playerProperties["skin"]];
+            PhotonNetwork.LocalPlayer.SetCustomProperties(playerProperties);
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            playerProperties["skin"] = 3;
+            playerRenderer.material = playerMaterials[(int) playerProperties["skin"]];
+            PhotonNetwork.LocalPlayer.SetCustomProperties(playerProperties);
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha5))
+        {
+            playerProperties["skin"] = 4;
+            playerRenderer.material = playerMaterials[(int) playerProperties["skin"]];
+            PhotonNetwork.LocalPlayer.SetCustomProperties(playerProperties);
+        }
+    }
+    public override void OnPlayerPropertiesUpdate(Player targetPlayer, Hashtable changedProps)
+    {
+        if (!pView.IsMine && targetPlayer == pView.Owner)
+        {
+            playerRenderer.material = playerMaterials[(int) changedProps["skin"]];
+        }
     }
 }

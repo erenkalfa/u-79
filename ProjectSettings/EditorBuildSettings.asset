@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ErenTest.unity
-    guid: f9ac18522e728124ca2e49743c898a53
+    path: Assets/Scenes/BuildTest.unity
+    guid: 64c3689734b97874d9415a4f65cac69f
   m_configObjects: {}
