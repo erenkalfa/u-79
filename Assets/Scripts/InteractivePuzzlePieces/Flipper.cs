@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Flipper : InteractivePuzzlePiece<HingeJoint>
 {
-    [Range(500f, 2000f)]
+    [Range(500f, 4000f)]
     public float power = 700f;
     private NetworkManager networkManager;
     public int puzzleId;

@@ -6,332 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="052e22e8-740f-46c4-9108-658168ada427" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.u-79/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.u-79/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MechanicTestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MechanicTestScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameScripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameScripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerInputManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerInputManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerMovementController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/BoyAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/BoyAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/DragonAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/DragonAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/GhostAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/GhostAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/GirlAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/GirlAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/GoblinAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/GoblinAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/HeroAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/HeroAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/MadFlowerAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/MadFlowerAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/PrincessAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/PrincessAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/SkeletonAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/SkeletonAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/SoldierAnimCntrl.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Controllers/SoldierAnimCntrl.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Fall.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Fall.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Idle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Idle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Jump.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Jump.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Land.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Land.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Run.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Run.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Slash.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Slash.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Sprint.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Sprint.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/T-Pose.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/T-Pose.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Walk.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Animations/Humanoid/Walk.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Boy_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Boy_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/DragonSkin_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/DragonSkin_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Dragon_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Dragon_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Ghost_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Ghost_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Girl_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Girl_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Goblin_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Goblin_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Hero_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Hero_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/MadFlower_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/MadFlower_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Princess_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Princess_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Skeleton_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Skeleton_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Soldier_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/Soldier_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/pasted__Skeleton_MAT.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Materials/pasted__Skeleton_MAT.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Boy.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Boy.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Dragon.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Dragon.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Ghost.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Ghost.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Girl.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Girl.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Goblin.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Goblin.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Hero.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Hero.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Mad Flower.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Mad Flower.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Princess.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Princess.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Skeleton.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Skeleton.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Soldier.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Models/Soldier.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Boy.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Boy.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Dragon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Dragon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Ghost.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Ghost.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Girl.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Girl.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Goblin.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Goblin.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Hero.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Hero.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Mad Flower.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Mad Flower.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Princess.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Princess.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Skeleton.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Skeleton.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Soldier.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Prefabs/Soldier.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Scenes/Characters.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Scenes/Characters.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_BaseColor.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_BaseColor.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_MaskMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_MaskMap.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_Occlusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Boy/Boy_Occlusion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_Albedo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_Albedo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_Occlusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Dragon/Dragon_Occlusion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Ghost.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Ghost/Ghost_Albedo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Ghost/Ghost_Albedo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Ghost/Ghost_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Ghost/Ghost_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Ghost/Ghost_Occlusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Ghost/Ghost_Occlusion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_BaseColor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_BaseColor.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_MaskMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_MaskMap.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_Occlusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Girl/Girl_Occlusion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Goblin.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Goblin/Goblin_Albedo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Goblin/Goblin_Albedo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Goblin/Goblin_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Goblin/Goblin_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Goblin/Goblin_Occlusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Goblin/Goblin_Occlusion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero_MaskMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero_MaskMap.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero_ex.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Hero/Hero_ex.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_Albedo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_Albedo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_Occlusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/MadFlower/MadFlower_Occlusion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Princess.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Princess/Princess_MAT.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Princess/Princess_MAT.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Princess/Princess_MAT_MaskMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Princess/Princess_MAT_MaskMap.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Princess/Princess_MAT_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Princess/Princess_MAT_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_Albedo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_Albedo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_Occlusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Skeleton/Skeleton_Occlusion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Soldier.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Soldier/Soldier.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Soldier/Soldier.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Soldier/Soldier_MaskMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Soldier/Soldier_MaskMap.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Soldier/Soldier_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/Newbie &amp; Friends/Textures/Soldier/Soldier_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Attack01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Attack01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Attack02.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Attack02.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Dance01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Dance01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Defense.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Defense.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/DefenseHit.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/DefenseHit.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Die01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Die01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Die01Recover.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Die01Recover.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Dizzy.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Dizzy.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01BWD_AnimLayer.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01BWD_AnimLayer.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01FWD_AnimLayer.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01FWD_AnimLayer.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01Left_AnimLayer.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01Left_AnimLayer.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01Right_AnimLayer.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/ForAnimationLayer/Run01Right_AnimLayer.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/GetHit.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/GetHit.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Idle03.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Idle03.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpAir.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpAir.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpEnd.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpEnd.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpOneTake.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpOneTake.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpStart.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/JumpStart.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Push.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Push.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01BWD_AnimLayer_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01BWD_AnimLayer_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01BWD_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01BWD_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01FWD_AnimLayer_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01FWD_AnimLayer_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01FWD_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01FWD_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Left_AnimLayer_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Left_AnimLayer_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Left_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Left_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Right_AnimLayer_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Right_AnimLayer_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Right_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Run01Right_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Slide_RM.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/RootMotion/Slide_RM.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01BWD.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01BWD.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01FWD.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01FWD.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01Left.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01Left.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01Right.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Run01Right.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Slide.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Slide.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Victory01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animation/Victory01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animator.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animator/Default.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Animator/Default.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/DefaultPBR01.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/DefaultPBR01.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/DefaultPBR02.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/DefaultPBR02.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/DefaultPolyart.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/DefaultPolyart.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/Skybox_Mat.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/Skybox_Mat.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/Stage.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Material/Stage.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/DefaultCharacterMesh.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/DefaultCharacterMesh.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/DefaultCharacterMesh_PBR01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/DefaultCharacterMesh_PBR01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/DefaultCharacterMesh_PBR02.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/DefaultCharacterMesh_PBR02.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/StageMesh.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Mesh/StageMesh.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/C01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/C01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/C02.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/C02.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/P01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/P01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/P02.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Prefab/P02.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Scene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Scene/DefaultPBR.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Scene/DefaultPBR.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Scene/DefaultPolyart.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Scene/DefaultPolyart.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/DefaultPolyart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/DefaultPolyart.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_AO01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_AO01.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_AO02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_AO02.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_Albedo_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_Albedo_01.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_Albedo_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_Albedo_02.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_MetallicSmoothness_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_MetallicSmoothness_01.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_MetallicSmoothness_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/PartyMonsterDuo/Texture/PBR_MetallicSmoothness_02.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ErenTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ErenTest.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/yasinBuildTest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/yasinBuildTest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameScripts/NetworkManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameScripts/NetworkManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,7 +27,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScripts/InGameServerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScripts/LookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScripts/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractivePuzzlePieces/FlipperNetworkController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractivePuzzlePieces/HammerNetworkController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractivePuzzlePieces/SpoonNetworkController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/MenuServerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/UsernameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerInteractionController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -363,28 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\MONSTER\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\MONSTER\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\MONSTER\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\MONSTER\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\MONSTER\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\MONSTER\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$PROJECT_DIR$/../../UnityBuilds/U-79/u-79.exe" />
@@ -428,10 +108,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="912">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="912" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -453,6 +133,8 @@
       <workItem from="1680888394201" duration="401000" />
       <workItem from="1680914134396" duration="5858000" />
       <workItem from="1680924024010" duration="3687000" />
+      <workItem from="1680952388294" duration="14212000" />
+      <workItem from="1681003067544" duration="932000" />
     </task>
     <servers />
   </component>

@@ -8,6 +8,8 @@ TagManager:
   - Hammer
   - Flipper
   - Spoon
+  - FxTemporaire
+  - Ball
   layers:
   - Default
   - TransparentFX

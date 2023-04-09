@@ -46,6 +46,7 @@ public class PlayerInputManager : MonoBehaviour
 
     public void LookInput(Vector2 newLookState)
     {
+        newLookState = new Vector2(newLookState.x, -newLookState.y);
         look = newLookState;
     }
 
