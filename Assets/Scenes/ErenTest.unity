@@ -822,7 +822,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 339401426, guid: f5f0b36917babec49ace6e2a1d754be5, type: 3}
+        - m_Target: {fileID: 1424302674}
           m_TargetAssemblyTypeName: FlipperNetworkController, Assembly-CSharp
           m_MethodName: SetIsFlipperActive
           m_Mode: 6
@@ -838,7 +838,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 339401426, guid: f5f0b36917babec49ace6e2a1d754be5, type: 3}
+        - m_Target: {fileID: 1424302674}
           m_TargetAssemblyTypeName: FlipperNetworkController, Assembly-CSharp
           m_MethodName: SetIsFlipperActive
           m_Mode: 6
@@ -7855,7 +7855,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 12908857, guid: 73dde1f2603d6a548a50ca8b98d8bcb1, type: 3}
+        - m_Target: {fileID: 1753858561}
           m_TargetAssemblyTypeName: FlipperNetworkController, Assembly-CSharp
           m_MethodName: SetIsFlipperActive
           m_Mode: 6
@@ -7871,7 +7871,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 12908857, guid: 73dde1f2603d6a548a50ca8b98d8bcb1, type: 3}
+        - m_Target: {fileID: 1753858561}
           m_TargetAssemblyTypeName: FlipperNetworkController, Assembly-CSharp
           m_MethodName: SetIsFlipperActive
           m_Mode: 6
@@ -9822,6 +9822,11 @@ PrefabInstance:
       propertyPath: mainCamera
       value: 
       objectReference: {fileID: 6441195903010785305}
+    - target: {fileID: 469112857258344117, guid: 0622fb105f693154abab3eb5f96ca7ec,
+        type: 3}
+      propertyPath: isDeviceMobile
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 469112857258344119, guid: 0622fb105f693154abab3eb5f96ca7ec,
         type: 3}
       propertyPath: sceneViewId
@@ -13530,7 +13535,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 12908857, guid: 73dde1f2603d6a548a50ca8b98d8bcb1, type: 3}
+        - m_Target: {fileID: 19169879}
           m_TargetAssemblyTypeName: FlipperNetworkController, Assembly-CSharp
           m_MethodName: SetIsFlipperActive
           m_Mode: 6
@@ -13546,7 +13551,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 12908857, guid: 73dde1f2603d6a548a50ca8b98d8bcb1, type: 3}
+        - m_Target: {fileID: 19169879}
           m_TargetAssemblyTypeName: FlipperNetworkController, Assembly-CSharp
           m_MethodName: SetIsFlipperActive
           m_Mode: 6
@@ -16622,7 +16627,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 1089330989, guid: c83a9a06304bbed4e83d11c9f171d79e, type: 3}
+        - m_Target: {fileID: 4532418125492640788}
           m_TargetAssemblyTypeName: HammerNetworkController, Assembly-CSharp
           m_MethodName: SetIsHammerActive
           m_Mode: 6
@@ -16638,7 +16643,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 1089330989, guid: c83a9a06304bbed4e83d11c9f171d79e, type: 3}
+        - m_Target: {fileID: 4532418125492640788}
           m_TargetAssemblyTypeName: HammerNetworkController, Assembly-CSharp
           m_MethodName: SetIsHammerActive
           m_Mode: 6
